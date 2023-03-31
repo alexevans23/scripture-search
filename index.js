@@ -33,7 +33,12 @@ const quotesBySubject = {
     peace: [
         ""
     ],
-    
+    miracles: [
+        ""
+    ],
+    author: [
+        ""
+    ]
   };
   
   // Define a function to get a random quote for a given subject
